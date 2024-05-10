@@ -1,4 +1,4 @@
-# Olá! Eu sou Giovani Oliveira :wave:
+# Olá! Eu sou Giovani Silva :wave:
 
 Sou graduando em Sistemas de Informação (1º período), atualmente estudo Java, POO e SQL. Busco uma vaga de estágio para me aprimorar como desenvolvedor.
 
