@@ -1,6 +1,6 @@
 # Olá! Eu sou Giovani Silva :wave:
 
-Sou graduando em Sistemas de Informação (1º período), atualmente estudo Java, POO e SQL. Busco uma vaga de estágio para me aprimorar como desenvolvedor.
+Sou graduando em Sistemas de Informação (2º período), atualmente estudo Java, POO e SQL. Busco uma vaga de estágio para me aprimorar como desenvolvedor.
 
 ## O que estou estudando
 - Java
